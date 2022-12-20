@@ -71,7 +71,7 @@ int testSD()
     Serial.println("error opening test.txt");
     return 1;
   }
-
+//
   // re-open the file for reading:
   myFile = SD.open("test.txt");
   if (myFile) {

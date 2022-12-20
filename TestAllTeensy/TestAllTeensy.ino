@@ -13,6 +13,7 @@
 #include <SD.h>
 #include <SPI.h>
 #include <LiquidCrystal_I2C.h>
+// Set I2C pins.
  #define WIRE_PINS   I2C_PINS_18_19 // Define where the port is...
  
 LiquidCrystal lcd(8, 9, 4, 5, 6, 7);  

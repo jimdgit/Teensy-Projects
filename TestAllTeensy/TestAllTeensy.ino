@@ -3,7 +3,7 @@
 
 
 //
-// tennsy 3.5 harware tests
+// tennsy 3.5 Hardware tests
 //
 
 #include <LiquidCrystal.h>
